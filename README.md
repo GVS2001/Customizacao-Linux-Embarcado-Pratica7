@@ -5,6 +5,8 @@
 ## SEL - Departamento de Engenharia Elétrica e de Computação 
 
 ## Disciplina SEL0630 - Projetos em Sistemas Embarcados (2023)
+- Docente: Pedro de Oliveira Conceição Junior
+- Monitor: Rodrigo Caramaschi Vernizzi 
 
 ## Projeto prático final - Desenvolvimento e customização para Linux Embarcado
 
