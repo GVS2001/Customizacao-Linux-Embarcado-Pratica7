@@ -21,6 +21,7 @@ Projeto Prático vinculado à Universidade de São Paulo - USP - disciplina SEL0
 - Gabriel Vinícius dos Santos - 11819424
 - Lucas Alves Roris - 11913771
 - Lucas Carvalho Freiberger Stapf - 11800559
+- Vitor Favrin Carrera Miguel - 11800646
 
 ### Importância do Projeto - seguimos o projeto proposto no Programa “Além do Horizonte” da Receita Federal do Brasil
 Neste projeto, abordamos a descaracterização sustentável de receptores de sinal de TV ilegais, especificamente os "Set-Top-Box" ou "TV-Box". Não apenas contribuímos para a eliminação de dispositivos ilegais e não homologados pela ANATEL, mas também promovemos práticas sustentáveis no processo. Reforçamos a importância da responsabilidade social e ambiental na gestão de equipamentos eletrônicos, contribuindo para a integridade do espectro de comunicação e conscientizando sobre o uso legal e certificado de dispositivos tecnológicos, promovendo a valorização do capital intelectual das universidades públicas.
